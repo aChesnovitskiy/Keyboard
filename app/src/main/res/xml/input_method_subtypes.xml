@@ -1,0 +1,9 @@
+<input-method
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.example.keyboard.MainActivity">
+    <subtype
+        android:label="@string/input_service_label"
+        android:isAsciiCapable="true"
+        android:imeSubtypeMode="keyboard"
+        android:imeSubtypeLocale="ru_RU" />
+</input-method>

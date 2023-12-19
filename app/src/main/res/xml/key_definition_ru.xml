@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="7.5%p"
+    android:horizontalGap="5px"
+    android:verticalGap="0px"
+    android:keyHeight="40dp">
+
+    <Row>
+        <Key android:codes="1103" android:keyLabel="я"  />
+        <Key android:codes="1095" android:keyLabel="ч" />
+        <Key android:codes="1089" android:keyLabel="с" />
+        <Key android:codes="1084" android:keyLabel="м" />
+        <Key android:codes="1080" android:keyLabel="и" />
+        <Key android:codes="1090" android:keyLabel="т" />
+        <Key android:codes="1100" android:keyLabel="ь" />
+        <Key android:codes="1073" android:keyLabel="б" />
+        <Key android:codes="1102" android:keyLabel="ю" />
+    </Row>
+</Keyboard>
